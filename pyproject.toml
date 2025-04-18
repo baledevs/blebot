@@ -26,7 +26,7 @@ dependencies = ["requests"]
 
 [project.urls]
 Homepage = "https://github.com/baledevs/blebot"
-Documentation = "https://pytba.readthedocs.org"
+Documentation = "https://baledevs.ir"
 Repository = "https://github.com/baledevs/blebot"
 Issues = "https://github.com/baledevs/blebot/issues"
 
