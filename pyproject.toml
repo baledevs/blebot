@@ -3,14 +3,14 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "pyTelegramBotAPI"
+name = "blebot"
 version = "4.26.0"
-description = "Python Telegram bot api."
-authors = [{name = "eternnoir", email = "eternnoir@gmail.com"}]
+description = "Python Bale bot api."
+authors = [{name = "amirabolfazle", email = "amirabolfazle.alipour@hotmail.com"}]
 license = {text = "GPL2"}
 readme = "README.md"
 requires-python = ">=3.9"
-keywords = ["telegram", "bot", "api", "tools"]
+keywords = ["Bale", "bot", "api", "tools"]
 classifiers = [
     "Development Status :: 5 - Production/Stable",
     "Programming Language :: Python :: 3",
@@ -25,10 +25,10 @@ classifiers = [
 dependencies = ["requests"]
 
 [project.urls]
-Homepage = "https://github.com/eternnoir/pyTelegramBotAPI"
+Homepage = "https://github.com/baledevs/blebot"
 Documentation = "https://pytba.readthedocs.org"
-Repository = "https://github.com/eternnoir/pyTelegramBotAPI"
-Issues = "https://github.com/eternnoir/pyTelegramBotAPI/issues"
+Repository = "https://github.com/baledevs/blebot"
+Issues = "https://github.com/baledevs/blebot/issues"
 
 
 [project.optional-dependencies]
